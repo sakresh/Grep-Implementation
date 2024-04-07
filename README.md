@@ -1,1 +1,1 @@
-# Grep Implementation using Rust
+# Grep Implementation using Rust for grepping out contents inside a file
