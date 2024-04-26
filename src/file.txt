@@ -1,0 +1,1 @@
+This is the file used for the demonstration purpose of the file handling in Rust
